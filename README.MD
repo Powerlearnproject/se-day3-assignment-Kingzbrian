@@ -1,4 +1,4 @@
-##se-assignment-day-3-environment-setup
+# se-assignment-day-3-environment-setup
 
 Describe the steps for installing dart and flutter on your operating system (Windows, Linux, MacOS)
 Dart and Flutter Installation
